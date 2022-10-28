@@ -29,5 +29,7 @@ for i in range(0.5)
 ```
 
 Jezeli chcemy cos wyswietlic uzywamy `print("Tutaj to co chcemy wyswietlic")` 
+
+![/git.jpeg](/git.jpeg)
   
 
